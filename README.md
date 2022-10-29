@@ -1,5 +1,5 @@
-###### Hi there 👋 my name is Abu Jafor
-###I am passionate about software building and testing.Seeking to utilize the experience and technical skills within a progressive organization that offers potential for technical development, professional and individual growth. 
+## Hi there 👋 my name is Abu Jafor
+-I am passionate about software building and testing.Seeking to utilize the experience and technical skills within a progressive organization that offers potential for technical development, professional and individual growth. 
 
 
 **Jaforbubt63/Jaforbubt63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
